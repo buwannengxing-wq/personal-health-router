@@ -1,8 +1,8 @@
 # personal-health-router
 
-Hermes Agent skill for automated personal health tracking across nutrition, sleep, and exercise, with Feishu/Lark Bitable persistence and automated reporting.
+An AI assistant that helps you manage daily health data. It automatically organizes your diet, sleep, and exercise information, syncs it to Feishu Bitable, and generates clear, periodic health summary reports.
 
-用于个人健康数据自动采集与管理的 Hermes Agent 技能，覆盖饮食、睡眠与运动，并支持飞书 Bitable 持久化与自动化报告生成。
+一个帮助你管理日常健康的 AI 助手，能够自动整理饮食、睡眠和运动数据，并同步到飞书多维表格中，同时定期生成清晰的健康分析报告。
 
 ## Overview
 
